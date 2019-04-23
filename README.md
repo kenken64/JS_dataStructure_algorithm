@@ -42,6 +42,8 @@ Hash Table is a data structure which stores data in an associative manner. In a 
 
 ## Binary Search Trees
 
+## Bloom Filter
+
 # List Search
 
 ## linear Search
